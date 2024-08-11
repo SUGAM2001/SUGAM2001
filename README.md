@@ -50,6 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="scikit-learn logo" />
+  
 </div>
 
 ###
