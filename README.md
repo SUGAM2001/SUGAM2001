@@ -18,7 +18,7 @@
 -->
 ###
 
-<h1 align="center">Hey 👋, I'm Sugam Kumar</h1>
+<h1 align="center">Hey 👋, I'm Sugam Kumar </h1>
 
 ###
 
