@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 Constantly striving to improve my skills and knowledge.<br>- 📚 Always eager to learn and implement new techniques in my work.<br>- ⚡ Experienced in working on gene expression data and EEG analysis.</p>
+<p align="left">- 🔭 Constantly striving to improve my skills and knowledge.<br>- 📚 Always eager to learn and implement new techniques in my work.<br>- ⚡ Experienced in working on Genomics data and Machine learning.</p>
 
 ###
 
