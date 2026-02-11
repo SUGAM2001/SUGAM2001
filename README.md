@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">I'm a Bioinformatics student passionate about machine learning and biomedical data analysis. My journey in bioinformatics has led me to explore the fascinating intersection of biology, data, and computational science. 🚀</h3>
+<h3 align="left">I'm a Bioinformatics student passionate about machine learning and Genomics data analysis. My journey in bioinformatics has led me to explore the fascinating intersection of biology, data, and computational science. 🚀</h3>
 
 ###
 
