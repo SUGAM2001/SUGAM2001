@@ -22,13 +22,6 @@
 
 ### `$ cat skills.txt`
 
-```bash
-> languages   : Python, R, HTML, CSS
-> os          : Linux
-> libraries   : Pandas, NumPy, Seaborn, Scikit-learn
-> domain      : Genomics data, Machine Learning
-```
-
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=00ff41" />
