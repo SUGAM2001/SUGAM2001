@@ -1,4 +1,4 @@
-<!-- Replace every YOUR_USERNAME with your GitHub username -->
+<!-- Replace every YOUR_USERNAME with your GitHub username 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=160&section=header&text=SUGAM2001&fontSize=36&fontColor=00ff41&fontAlignY=40&animation=fadeIn" />
 
@@ -59,3 +59,4 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" />
+-->
