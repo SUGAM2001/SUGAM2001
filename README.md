@@ -1,70 +1,68 @@
-<!--
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</div>
+<!-- Replace every YOUR_USERNAME with your GitHub username -->
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=160&section=header&text=SUGAM2001&fontSize=36&fontColor=00ff41&fontAlignY=40&animation=fadeIn" />
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%24+whoami;Sugam+Kumar+%7C+Bioinformatics+Student;%24+cat+interests.txt;Genomics+%7C+Machine+Learning+%7C+Data+Analysis;%24+echo+%22Always+learning...%22" alt="Typing SVG" />
+  </a>
+</p>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SUGAM2001.SUGAM2001&"  />
-</div>
--->
-###
+### `$ whoami`
 
-<h1 align="center">Hey 👋, I'm Sugam Kumar </h1>
+```bash
+> name        : Sugam Kumar
+> role        : Bioinformatics Student
+> passion     : Machine Learning + Genomics Data Analysis
+> mission     : Exploring the intersection of biology, data & computational science
+> status      : Constantly learning, always building
+```
 
-###
+### `$ cat skills.txt`
 
-<h3 align="left">I'm a Bioinformatics student passionate about machine learning and Genomics data analysis. My journey in bioinformatics has led me to explore the fascinating intersection of biology, data, and computational science. 🚀</h3>
+```bash
+> languages   : Python, R, HTML, CSS
+> os          : Linux
+> libraries   : Pandas, NumPy, Seaborn, Scikit-learn
+> domain      : Genomics data, Machine Learning
+```
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logoColor=00ff41" />
+</p>
 
-<p align="left">- 🔭 Constantly striving to improve my skills and knowledge.<br>- 📚 Always eager to learn and implement new techniques in my work.<br>- ⚡ Experienced in working on Genomics data and Machine learning.</p>
 
-###
+### `$ git stats`
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SUGAM2001&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUGAM2001&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9" />
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUGAM2001&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&stroke=00ff41&hide_border=true" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
-  <img width="12" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40" alt="scikit-learn logo" />
-  
-</div>
+### `$ ./connect.sh`
 
-###
+<p>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00ff41" /></a>
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUGAM2001&label=Profile+views&color=00ff41&style=flat-square&labelColor=000000" />
+</p>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SUGAM2001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" />
